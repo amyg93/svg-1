@@ -1,9 +1,19 @@
-#SVG Project for Drawing on the Web
+SVG Project for Drawing on the Web
+==================================
 
-Click on animals for more information about the animal:
+Dancing Animals at the Zoo
+--------------------------
+
+Animals:
 
 - Elephant
 - Ox
 - Zebra
+- Cheetah
+- Ostrich
+- Monkey
+- Crocodile
+- Lion
+- Giraffe
 
-[SVG] (http://i6.cims.nyu.edu/~kc1761/380/svg/)
+Original SVG by [Katherine Chen] (http://i6.cims.nyu.edu/~kc1761/380/svg/)
